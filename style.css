@@ -1,0 +1,27 @@
+body {
+  background-image: url('https://fv5-7.files.fm/thumb_show.php?i=2jfwjbxhtz&view&v=1&PHPSESSID=36ebbee37f15274c216f1410fb9a3332c59a7f3a');
+  background-size: cover;       
+  background-position: center;  
+  background-repeat: no-repeat; 
+  color: white;                 
+  font-family: Arial, sans-serif;
+  text-align: center;
+  padding: 40px;
+}
+
+
+.donate-btn {
+  background-color: #b0790b;
+  color: white;
+  padding: 15px 30px;
+  font-size: 20px;
+  border: none;
+  border-radius: 10px;
+  text-decoration: none;
+  display: inline-block;
+  margin-top: 20px;
+}
+
+.donate-btn:hover {
+  background-color: #f7aa0f;
+}
